@@ -1,8 +1,15 @@
 h1{
     color:white;
     background-color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 p{
     color:green;
     background-color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    color:aqua;
+    background-color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
